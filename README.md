@@ -1,4 +1,4 @@
-# Desafio FizzBuzz- Elixir phoenix
+# Challenge FizzBuzz- Elixir phoenix
 
 # Used Postman to make the Requests.
 
