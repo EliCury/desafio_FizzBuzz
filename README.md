@@ -1,6 +1,7 @@
 # Desafio FizzBuzz- Elixir phoenix
 
-# Usado Postman para fazer as Requisições.
+# Used Postman to make the Requests.
+
 *Route Fizz - http://localhost:4000/api/v1/Fizz
 
 *Route Buzz - http://localhost:4000/api/v1/Buzz
@@ -11,5 +12,5 @@
 
 *Route FizzBuzz - http://localhost:4000/api/v1/FizzBuzz
 
-# Imagens
+# Images
 ![image](https://user-images.githubusercontent.com/63824740/196572012-6839960f-a2ae-483e-88c4-6cc54bc02d86.png)
